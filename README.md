@@ -39,8 +39,12 @@ prompt_message = "You are a music therapist. you are about treat {$patient name}
 
 ## Awards
 
+OpenAI 2500 USD Credit
 
+Liu Idea Lab Music Award
 
 ## Acknowledgment
+
+We want to thanke Rice University and Peng's support.
 
 2023 - 2024 Matrix Sftware LLC All Rights Reserved
